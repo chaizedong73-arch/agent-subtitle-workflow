@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+*.log
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.mov
+output/
+outputs/
+private/
+__pycache__/
