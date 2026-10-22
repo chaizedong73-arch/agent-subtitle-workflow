@@ -11,3 +11,12 @@ output/
 outputs/
 private/
 __pycache__/
+*.pyc
+
+# 凭据与登录态 —— 绝对不要提交
+cookies.txt
+*.cookies.txt
+state.json
+*.state.json
+ark_config.json
+*.key
